@@ -1,5 +1,5 @@
 import axios from 'axios'
-export const API_BASE_URL="https://ecommerce-server1-production.up.railway.app"
+export const API_BASE_URL="https://ecommerce-server1-production-4769.up.railway.app"
 
 const jwt=localStorage.getItem("jwt")
 
